@@ -28,7 +28,7 @@ namespace MagicSquare
             Console.WriteLine("Ранг массива = " + n);
             Console.WriteLine();
 
-            Console.WriteLine("Введите значения элементов для заполнения массива");
+            Console.WriteLine("Введите построчно значения элементов для заполнения массива");
             for (i = 0; i < n; i++)
             {
                 for (j = 0; j < n; j++)
@@ -117,7 +117,7 @@ namespace MagicSquare
                 Console.WriteLine("Квадрат является \"магическим\" - тривиальный случай");
             }
 
-            else if (sumTot == 0 && n != 2)
+            else if (sumTot == 0 && n != 2 && n != 1)
             {
                 Console.WriteLine("Квадрат является \"магическим\" ");
             }
