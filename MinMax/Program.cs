@@ -10,6 +10,7 @@ namespace MinMax
     {
         static void Main(string[] args)
         {
+            // Определить сумму максимального и минимального элементов массива.
             int[] array = new int[15];
             Random random = new Random();
             int max = 0;

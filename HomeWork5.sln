@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "HomeWork5\Averag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{D5589595-3F30-4257-B372-038F7DFB5570}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fist5_Second5", "Fist5_Second5\Fist5_Second5.csproj", "{F4F6D3CA-D489-4132-905F-829B56A75558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D5589595-3F30-4257-B372-038F7DFB5570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5589595-3F30-4257-B372-038F7DFB5570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5589595-3F30-4257-B372-038F7DFB5570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F6D3CA-D489-4132-905F-829B56A75558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F6D3CA-D489-4132-905F-829B56A75558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F6D3CA-D489-4132-905F-829B56A75558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F6D3CA-D489-4132-905F-829B56A75558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
